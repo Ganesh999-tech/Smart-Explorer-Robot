@@ -66,3 +66,5 @@ This project was developed using a Hybrid Engineering Workflow, combining modern
     Human-Led Logic & Debugging: While AI helped with the "skeleton," I manually engineered the critical PID control loops and Stuck Detection logic. I performed extensive real-world testing to solve physical edge cases—such as motor stiction and sensor noise—that AI cannot predict without physical feedback.
 
     Technical Ownership: By using AI as a "pair programmer," I was able to write a more sophisticated 300+ line stack (including IMU drift compensation and sector scanning) than would be possible in a standard university project timeline.
+
+https://youtube.com/shorts/60BSuBJQ_tY?is=kT0Z9LW3HWmrcS7u
